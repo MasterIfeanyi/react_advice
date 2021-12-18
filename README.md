@@ -1,3 +1,7 @@
-## Check out the website
+## Check out the website,
 #### click the link below
-https://sleepy-nobel-f064da.netlify.app/
+
+Open [Ifeanyi-advice-app](https://ifeanyi-advice.netlify.app/) to view it in the browser.
+
+
+
